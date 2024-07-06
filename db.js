@@ -1,1 +1,1 @@
-let MONGODB_URL = "mongodb+srv://Jayadeva2002:Jayadeva@2002@cluster0.qy47aee.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+let MONGODB_URL="mongodb+srv://Jayadeva2002:Jayadeva@2002@cluster0.qy47aee.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
