@@ -6,7 +6,7 @@ const app = express()
 
 app.use(express.json()) 
 
-app.post('/data/create', ome_one.create)
+app.post('/data', ome_one.create)
 app.get('/data/list', ome_one.list)
 app.post('/data/update/:id', ome_one.update)
 app.delete('/data/delete/:id', ome_one.delete)
