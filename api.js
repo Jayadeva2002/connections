@@ -4,7 +4,7 @@ import Rathna from "./class.js";
 const ome_one = new Rathna()
 const app = express()
 
-app.use(express.json())
+app.use(express.json()) 
 
 app.post('/data/create', ome_one.create)
 app.get('/data/list', ome_one.list)
